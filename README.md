@@ -14,6 +14,9 @@ Quelles sont ces mission et vision
 
 # Partie 4
 Les valeurs apportées par l'entreprise et ces principes.
+Planète affichant des abeilles et un 80% à l'intérieur, il se trouvera sur le milieu de la face avec texte au dessus et en dessus
+énumérant les valeurs de l'entreprise
+
 
 # Partie 5
 Les cibles de l'entreprise (Au départ Ruche Artisanal pour les particuliers, ensuite aux agglomération, communes, entreprises)
