@@ -54,10 +54,9 @@ Regarder la diapo 'Pourquoi avons-nous eu cette idée'
 - [x] Couleur CMJN
 - [x] Récupération Logo et Icone
 - [x] Appliquer un thème sur tout le dépliant
-- [ ] Associer le thème a travers les pages 5-6-1
-- [ ] Ajouter Contact Instagram
-- [ ] Ajouter Image Ruche dans un cercle sur la page de garde
-- [ ] Ajouter Disclaimer des différents présentant le prix
+- [x] Associer le thème a travers les pages 5-6-1
+- [X] Ajouter Contact Instagram
+- [X] Ajouter Disclaimer des différents présentant le prix
 
 # Post RS
 - [x] Choisir entre post Fb [ ] ou Insta [x]
@@ -65,5 +64,6 @@ Regarder la diapo 'Pourquoi avons-nous eu cette idée'
 - [ ] Création Post (1080x1080px ou 1080x1530 px)
 
 # Prototype
-- [ ] Création d'un proto web
+- [x] Création d'un proto web
+- [ ] Création Responsive Web - Web Mobile
 
