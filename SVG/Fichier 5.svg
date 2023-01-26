@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760.63 467.16">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f7d17b;
+      }
+
+      .cls-4 {
+        fill: #c9a545;
+      }
+
+      .cls-5 {
+        fill: #5d512e;
+      }
+
+      .cls-2, .cls-6 {
+        font-family: TitilliumWeb-Regular, 'Titillium Web';
+        font-size: 20px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <rect class="cls-5" width="760.63" height="467.16" rx="17.63" ry="17.63"/>
+      <rect class="cls-4" x="29.24" y="89.06" width="731.39" height="376.64" rx="17.6" ry="17.6"/>
+      <rect class="cls-3" x="58.49" y="178.11" width="702.14" height="287.59" rx="17.63" ry="17.63"/>
+      <rect class="cls-7" x="87.73" y="267.17" width="672.9" height="200" rx="17.63" ry="17.63"/>
+      <rect class="cls-1" x="116.97" y="356.23" width="642.16" height="109.47" rx="17.63" ry="17.63"/>
+      <text class="cls-2" transform="translate(78.8 27.71) scale(.98 1)"><tspan x="0" y="0">C4 M19 J60 N76</tspan><tspan x="13.15" y="24">R92 V80 B45</tspan><tspan x="29.4" y="48">#5C502D</tspan></text>
+      <text class="cls-2" transform="translate(108.04 116.76) scale(.98 1)"><tspan x="0" y="0">C21 M31 J80 N7</tspan><tspan x="1.95" y="24">R201 V165 B69</tspan><tspan x="29.73" y="48">#59A545</tspan></text>
+      <text class="cls-6" transform="translate(142.78 205.82) scale(.98 1)"><tspan x="0" y="0">C4 M19 J60 N0</tspan><tspan x="-9.25" y="24">R247 V209 B123</tspan><tspan x="23.42" y="48">#F7D17B</tspan></text>
+      <text class="cls-2" transform="translate(172.03 294.88) scale(.98 1)"><tspan x="0" y="0">C0 M0 J0 N100</tspan><tspan x="7.55" y="24">R29 V29 B27</tspan><tspan x="22.23" y="48">#1D1D1B</tspan></text>
+      <text class="cls-6" transform="translate(191.1 394.87) scale(.98 1)"><tspan x="0" y="0">C0 M0 J0 N0</tspan><tspan x="-20.45" y="24">R255 V255 B255</tspan><tspan x="15.33" y="48">#FFFFFF</tspan></text>
+    </g>
+  </g>
+</svg>
