@@ -60,8 +60,8 @@ Regarder la diapo 'Pourquoi avons-nous eu cette idée'
 
 # Post RS
 - [x] Choisir entre post Fb [ ] ou Insta [x]
-- [ ] Récupérer logo application mobile pour appliquer en tant que photo de profil Insta (320x320px)
-- [ ] Création Post (1080x1080px ou 1080x1530 px)
+- [x] Récupérer logo application mobile pour appliquer en tant que photo de profil Insta (320x320px)
+- [x] Création Post (1080x1080px ou 1080x1530 px)
 
 # Prototype
 - [x] Création d'un proto web
